@@ -1,0 +1,40 @@
+GET http://localhost:5147/games
+
+###
+GET http://localhost:5147/games/1
+
+###
+POST http://localhost:5147/games
+Content-Type: application/json
+
+# {
+#     "name": "Minecraft",
+#     "genre": "Kids and Family",
+#     "price": 19.99,
+#     "releaseDate": "2011-11-18"
+# } -> Change by geneId
+{
+    "name": "Test game version 5",
+    "genreId": 4,
+    "price": 18.56,
+    "releaseDate": "2024-11-21"
+}
+
+###
+PUT http://localhost:5147/games/1
+Content-Type: application/json
+
+# {
+#     "name": "Street Fighter II Turbo",
+#     "genre": "Fighting",
+#     "price": 30.01,
+#     "releaseDate": "2024-11-25"
+# }
+{
+    "name": "Street Fighter II Turbo",
+    "genreId": 300,
+    "price": 30.01,
+    "releaseDate": "2024-11-25"
+}
+###
+DELETE http://localhost:5147/games/8
