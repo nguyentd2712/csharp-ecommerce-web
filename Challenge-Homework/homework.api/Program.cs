@@ -1,15 +1,4 @@
-using Microsoft.AspNetCore.Builder;
-using System.Collections.Generic;
-
-// Define the data record
-public record categoryData(int Id, string CategoryName);
-
-
-internal class Program
-{
-    private static void Main(string[] args)
-    {
-        var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);
 
         // Add services to the container.
         builder.Services.AddControllers();
@@ -17,7 +6,7 @@ internal class Program
         var app = builder.Build();
 
         // Define the static data list
-        List<categoryData> categoryList = [
+        List<homework.api.Categories> categoryList = [
             new (1, "Fiction"),
             new (2, "Non-Fiction"),
             new (3, "Science Fiction"),
@@ -37,6 +26,3 @@ internal class Program
         app.MapGet("/api/category/{id}", (int id) => categoryList.Find(data => data.Id == id));
 
         app.Run();
-    }
-}
-
