@@ -1,0 +1,157 @@
+﻿@page "/"
+@using ThirdHomework.Frontend.Components.Layout
+<PageTitle>Challenge 3</PageTitle>
+
+<nav class="navigation">
+    <ul>
+        <li data-id="99">Catalog</li>
+        <li data-id="100">Contact Us</li>
+    </ul>
+</nav>
+
+<div class="container">
+    <div class="left">
+        <ul id="category-list">
+            <li data-id="98">All Categories</li>
+            <li data-id="1">Fiction</li>
+            <li data-id="2">Non-Fiction</li>
+            <li data-id="3">Science Fiction</li>
+            <li data-id="4">Fantasy</li>
+            <li data-id="5">Mystery</li>
+            <li data-id="6">Thriller</li>
+            <li data-id="7">Romance</li>
+            <li data-id="98">Fiction</li>
+            <li data-id="9">Non-Fiction</li>
+            <li data-id="10">Science Fiction</li>
+        </ul>
+    </div>
+    <div class="right">
+        <div id="category-table">
+            <table id="all-categories-table" style="display:none;">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- define the tbody empty to load the element from script below  -->
+                </tbody>
+            </table>
+            <p>Please click on the Category item on the Navigation bar to view the details.</p>
+        </div>
+        <div id="category-detail" style="display:none;">
+            <h2 id="category-name"></h2>
+        </div>
+    </div>
+</div>
+
+<style>
+    .container {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        gap: 10px;
+    }
+
+    .left {
+        grid-column: span 4;
+        background-color: lightblue;
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .right {
+        grid-column: span 8;
+        background-color: lightgreen;
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+        align-content: center;      
+    }
+
+    .p {
+        display: flex;
+        font-size: 24px;
+        text-align: center;
+        text-align: justify; 
+    }
+
+    nav ul {
+        list-style-type: none;
+        padding: 10px;
+    }
+
+    nav ul li {
+        display: inline;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    } 
+</style>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Add a trigger click event for category ID 98 when page load
+        document.querySelector('#category-list li[data-id="98"]').click();
+    });
+
+    document.querySelectorAll('#category-list li').forEach(item => {
+        item.addEventListener('click', event => {
+            const categoryId = event.target.getAttribute('data-id');
+            const categoryName = event.target.textContent;
+
+            if (categoryId === '98') {
+                // Dynamically add Bootstrap to the table when page on load
+                const bootstrapCSS = document.createElement('link');
+                bootstrapCSS.rel = 'stylesheet';
+                bootstrapCSS.href = 'https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css';
+                document.head.appendChild(bootstrapCSS);
+
+                const jqueryScript = document.createElement('script');
+                jqueryScript.src = 'https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js';
+                document.body.appendChild(jqueryScript);
+
+                const bootstrapScript = document.createElement('script');
+                bootstrapScript.src = 'https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js';
+                document.body.appendChild(bootstrapScript);
+
+                // Show all categories in a table
+                const table = document.getElementById('all-categories-table');
+
+                // Add Bootstrap classes, if disable this classList, the boostrap not work
+                table.classList.add('table', 'table-striped', 'table-bordered'); 
+
+                const tbody = table.querySelector('tbody');
+                tbody.innerHTML = ''; // This row to clear existing rows (data is displaying)
+
+                const categories = [
+                    { id: 1, name: 'Fiction' },
+                    { id: 2, name: 'Non-Fiction' },
+                    { id: 3, name: 'Science Fiction' },
+                    { id: 4, name: 'Fantasy' },
+                    { id: 5, name: 'Mystery' },
+                    { id: 6, name: 'Thriller' },
+                    { id: 7, name: 'Romance' },
+                    { id: 8, name: 'Fiction' },
+                    { id: 9, name: 'Non-Fiction' },
+                    { id: 10, name: 'Science Fiction' }
+                ];
+
+                categories.forEach(category => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `<td>${category.id}</td><td>${category.name}</td><td></td>`;
+                    tbody.appendChild(row);
+                });
+
+                document.getElementById('category-table').style.display = 'block';
+                table.style.display = 'table';
+                document.getElementById('category-detail').style.display = 'none';
+            } else {
+                // Show single category detail
+                document.getElementById('category-table').style.display = 'none';
+                document.getElementById('category-detail').style.display = 'block';
+                document.getElementById('category-name').textContent = "You are viewing the category: " + categoryName;
+            }
+        });
+    });
+</script>

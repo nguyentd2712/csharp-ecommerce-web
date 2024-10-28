@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdHomework.Frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ThirdHomework.Frontend.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ThirdHomework.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ThirdHomework.Frontend.props",
+      "PackagePath": "build\\ThirdHomework.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ThirdHomework.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\ThirdHomework.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ThirdHomework.Frontend.props",
+      "PackagePath": "buildTransitive\\ThirdHomework.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

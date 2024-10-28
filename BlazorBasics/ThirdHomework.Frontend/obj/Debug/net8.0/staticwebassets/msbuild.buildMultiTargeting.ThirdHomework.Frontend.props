@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThirdHomework.Frontend.props" />
+</Project>
