@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\ThirdHomework.Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\ThirdHomework.Frontend.csproj",
       "projectName": "ThirdHomework.Frontend",
-      "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\ThirdHomework.Frontend.csproj",
+      "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\ThirdHomework.Frontend.csproj",
       "packagesPath": "C:\\Users\\duongnguyent3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\",
+      "outputPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duongnguyent3\\AppData\\Roaming\\NuGet\\NuGet.Config"
