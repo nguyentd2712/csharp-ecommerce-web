@@ -1,0 +1,3 @@
+GET http://localhost:5163/category
+
+GET http://localhost:5163/category/2

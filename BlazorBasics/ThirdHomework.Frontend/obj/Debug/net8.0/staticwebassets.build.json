@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DOcYrNTMv1bOxCXerBQbIOkoMlY9gxoKbYQb5dliw60=",
+  "Hash": "Sd7+yGkD7TioPr6zLvGMVeY7fcE5dG9OGoq5BpAFvpU=",
   "Source": "ThirdHomework.Frontend",
   "BasePath": "_content/ThirdHomework.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ThirdHomework.Frontend\\wwwroot",
       "Source": "ThirdHomework.Frontend",
-      "ContentRoot": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\",
       "BasePath": "_content/ThirdHomework.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ThirdHomework.Frontend.styles.css",
+      "Identity": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ThirdHomework.Frontend.styles.css",
       "SourceId": "ThirdHomework.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ThirdHomework.Frontend",
       "RelativePath": "ThirdHomework.Frontend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ThirdHomework.Frontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ThirdHomework.Frontend.styles.css"
     },
     {
-      "Identity": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdHomework.Frontend.bundle.scp.css",
+      "Identity": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdHomework.Frontend.bundle.scp.css",
       "SourceId": "ThirdHomework.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ThirdHomework.Frontend",
       "RelativePath": "ThirdHomework.Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdHomework.Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdHomework.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\app.css",
       "SourceId": "ThirdHomework.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\",
       "BasePath": "_content/ThirdHomework.Frontend",
       "RelativePath": "app.css",
       "AssetKind": "All",

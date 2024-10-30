@@ -1,0 +1,28 @@
+@page
+@using WebMVCrazorpages; 
+@model WebMVCrazorpages.Pages.Category.IndexModel;
+
+@if (Model.Categories == null || !Model.Categories.Any())
+{
+    <h1>Books are coming soon.</h1>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Category Name</th>                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model.Categories)
+            {
+                <tr>
+                    <td>@category.Id</td>
+                    <td>@category.CategoryName</td>                    
+                </tr>
+            }
+        </tbody>
+    </table>
+}

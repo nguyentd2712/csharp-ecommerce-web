@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdHomework.Frontend.bundle.scp.css",
+      "Id": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThirdHomework.Frontend.bundle.scp.css",
       "PackagePath": "staticwebassets\\ThirdHomework.Frontend.bundle.scp.css"
     },
     {
-      "Id": "c:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\app.css",
+      "Id": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\BlazorBasics\\ThirdHomework.Frontend\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {

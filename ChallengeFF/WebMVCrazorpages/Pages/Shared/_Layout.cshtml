@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Online Store</title> 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="container mt-4">
+        <div class="left">
+            <div>Book Online Store</div>
+            <nav>
+                <ul>
+                    <li class="nav-item">
+                        <a href="/Category">Book Categories</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#">Contact Us</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="right">
+            <div class="p">Hello</div>
+            @RenderBody()
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+<style>
+    
+    .container {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        gap: 1px;
+    }
+
+    .left {
+        grid-column: span 4;
+        background-color: rgb(192, 190, 190);
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px;
+    }
+
+    .right {
+        grid-column: span 8;
+        background-color: rgb(213, 218, 213);
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+        align-content: center;
+        padding: 10px;
+    }
+
+</style>

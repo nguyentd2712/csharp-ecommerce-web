@@ -1,0 +1,11 @@
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\bin\Debug\net8.0\CategoryLibrary.deps.json
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\bin\Debug\net8.0\CategoryLibrary.dll
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\bin\Debug\net8.0\CategoryLibrary.pdb
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\obj\Debug\net8.0\CategoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\obj\Debug\net8.0\CategoryLibrary.AssemblyInfoInputs.cache
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\obj\Debug\net8.0\CategoryLibrary.AssemblyInfo.cs
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\obj\Debug\net8.0\CategoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\obj\Debug\net8.0\CategoryLibrary.dll
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\obj\Debug\net8.0\refint\CategoryLibrary.dll
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\obj\Debug\net8.0\CategoryLibrary.pdb
+C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\CategoryLibrary\obj\Debug\net8.0\ref\CategoryLibrary.dll
