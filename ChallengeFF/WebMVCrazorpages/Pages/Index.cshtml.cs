@@ -11,8 +11,11 @@ public class IndexModel : PageModel
         _logger = logger;
     }
 
-    public void OnGet()
-    {
+    // public void OnGet()
+    // {
+    //     // Redirect to /home when the root page is accessed
+    //     return Redirect("/Home");
+    // }
 
-    }
+    public void OnGet() => Redirect("/Home");
 }
