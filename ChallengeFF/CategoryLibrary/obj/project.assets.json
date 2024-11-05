@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj",
       "projectName": "CategoryLibrary",
-      "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj",
+      "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj",
       "packagesPath": "C:\\Users\\duongnguyent3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\obj\\",
+      "outputPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duongnguyent3\\AppData\\Roaming\\NuGet\\NuGet.Config"

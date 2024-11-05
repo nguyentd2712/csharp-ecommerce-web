@@ -9,35 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebMVCrazorpages
 build_property.RootNamespace = WebMVCrazorpages
-build_property.ProjectDir = C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\WebMVCrazorpages\
+build_property.ProjectDir = C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\csharp-ecommerce-web\ChallengeFF\WebMVCrazorpages\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\ChallengeFF\WebMVCrazorpages
+build_property.MSBuildProjectDirectory = C:\Users\duongnguyent3\OneDrive - NASHTECH\Bench\mydotnet\csharp-ecommerce-web\ChallengeFF\WebMVCrazorpages
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/ChallengeFF/WebMVCrazorpages/Pages/Category/Index.cshtml]
+[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/csharp-ecommerce-web/ChallengeFF/WebMVCrazorpages/Pages/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/ChallengeFF/WebMVCrazorpages/Pages/Error.cshtml]
+[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/csharp-ecommerce-web/ChallengeFF/WebMVCrazorpages/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/ChallengeFF/WebMVCrazorpages/Pages/Index.cshtml]
+[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/csharp-ecommerce-web/ChallengeFF/WebMVCrazorpages/Pages/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/csharp-ecommerce-web/ChallengeFF/WebMVCrazorpages/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/ChallengeFF/WebMVCrazorpages/Pages/Shared/_Layout.cshtml]
+[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/csharp-ecommerce-web/ChallengeFF/WebMVCrazorpages/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/ChallengeFF/WebMVCrazorpages/Pages/_ViewImports.cshtml]
+[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/csharp-ecommerce-web/ChallengeFF/WebMVCrazorpages/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/ChallengeFF/WebMVCrazorpages/Pages/_ViewStart.cshtml]
+[C:/Users/duongnguyent3/OneDrive - NASHTECH/Bench/mydotnet/csharp-ecommerce-web/ChallengeFF/WebMVCrazorpages/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

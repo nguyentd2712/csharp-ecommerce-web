@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9IPNQq8oMk=",
+  "dgSpecHash": "MrpTUBmWYCw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\SecondHomework\\Challenge.Api\\Challenge.Api.csproj",
+  "projectFilePath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\SecondHomework\\Challenge.Api\\Challenge.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duongnguyent3\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\duongnguyent3\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

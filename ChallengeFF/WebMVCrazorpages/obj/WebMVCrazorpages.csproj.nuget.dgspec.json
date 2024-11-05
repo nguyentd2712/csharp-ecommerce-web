@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\WebMVCrazorpages\\WebMVCrazorpages.csproj": {}
+    "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\WebMVCrazorpages\\WebMVCrazorpages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj": {
+    "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj",
         "projectName": "CategoryLibrary",
-        "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj",
+        "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj",
         "packagesPath": "C:\\Users\\duongnguyent3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\obj\\",
+        "outputPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duongnguyent3\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\WebMVCrazorpages\\WebMVCrazorpages.csproj": {
+    "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\WebMVCrazorpages\\WebMVCrazorpages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\WebMVCrazorpages\\WebMVCrazorpages.csproj",
+        "projectUniqueName": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\WebMVCrazorpages\\WebMVCrazorpages.csproj",
         "projectName": "WebMVCrazorpages",
-        "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\WebMVCrazorpages\\WebMVCrazorpages.csproj",
+        "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\WebMVCrazorpages\\WebMVCrazorpages.csproj",
         "packagesPath": "C:\\Users\\duongnguyent3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\WebMVCrazorpages\\obj\\",
+        "outputPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\WebMVCrazorpages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duongnguyent3\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj": {
-                "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj"
+              "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj": {
+                "projectPath": "C:\\Users\\duongnguyent3\\OneDrive - NASHTECH\\Bench\\mydotnet\\csharp-ecommerce-web\\ChallengeFF\\CategoryLibrary\\CategoryLibrary.csproj"
               }
             }
           }
