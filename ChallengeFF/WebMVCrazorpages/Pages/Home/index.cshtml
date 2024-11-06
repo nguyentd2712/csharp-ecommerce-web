@@ -1,6 +1,8 @@
 @page
-@using WebMVCrazorpages; 
+@using WebMVCrazorpages;
+@model WebMVCrazorpages.Pages.Category.IndexModel;
 
+<h1>BOOK FEATURED</h1>
 <div class="row">
     @for (int i = 0; i < 2; i++)
     {
@@ -8,7 +10,8 @@
         {
             <div class="col-md-4">
                 <div class="card mb-4 shadow-sm">
-                    <img src="https://store.car.org/cdn/shop/files/SFB_July_2024.png?v=1723523056&width=1920" class="card-img-top" alt="Product Image">
+                    <img src="https://store.car.org/cdn/shop/files/SFB_July_2024.png?v=1723523056&width=1920"
+                        class="card-img-top" alt="Product Image">
                     <div class="card-body">
                         <h5 class="card-title">Book name @(i * 3 + j + 1)</h5>
                         <p class="card-text">This is a description for the book name @(i * 3 + j + 1).</p>
@@ -19,5 +22,26 @@
     }
 </div>
 
- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+<h1>BOOK CATEGORIES</h1>
+    <div class="row">
+    @for (int i = 0; i < Model.Categories.Count; i++)
+    {
+        if (i % 3 == 0 && i > 0)
+        {
+            @:</div><div class="row"> <!-- Close the previous row and open a new one with 3 item per row -->
+        }
+
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <div class="card-body">
+                    <div>@Model.Categories[i].CategoryName</div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
